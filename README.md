@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://zoikorda.github.io/
+> https://zoikorda.github.io
 
 :star: Star me on GitHub — it helps!
 
