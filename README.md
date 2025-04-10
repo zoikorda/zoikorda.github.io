@@ -1,7 +1,5 @@
-# Personal Portfolio 🔥
+# Personal Portfolio 👽
 > https://zoikorda.github.io
-
-:star: Star me on GitHub — it helps!
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/zoikorda/zoikorda.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://zoikorda.github.io/)
@@ -9,15 +7,15 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ## Sections
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+🚀 About\
+🚀 Interests\
+🚀 Education\
+🚀 Online Certification\
+🚀 Experience\
+🚀 Projects \
+🚀 Skills \
+🚀 Resume\
+🚀 Contact Info
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
